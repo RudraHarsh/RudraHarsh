@@ -1,5 +1,8 @@
 ### Hi there 👋
+I am Rudra Harsh 
 
+Computers are my love 
+know and work with multiple languages Python, JAVA, C, CPP,C#,Js, HTML,GO,DART, Kotlin, and the list goes on.
 <!--
 **RudraHarsh/RudraHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
